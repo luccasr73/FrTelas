@@ -1,0 +1,44 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+/*navbar*/
+.imgBrand{
+  height:123px; 
+}
+.navBarIcons{
+  font-size:3rem;
+  display: block;
+}
+.menuBtn{
+  text-align:center;
+}
+.navbar-toggler{
+ align-self: start;
+}
+/*navbar*/
+/*carousel*/
+.carouselImg{
+  max-height:500px;
+}
+.videoApresentacao{
+  width:100%;
+  max-height:500px;
+}
+.arrowsSlide{
+  font-size: 3rem;
+}
+/*carousel*/
+/**/
+.containerApresentacao{
+  margin-top:25px;
+}
+.rowApresentacao{
+  margin-top:20px;
+}
+.btnApresentacao{
+  white-space:normal;
+  word-break: break-word;
+}
+/**/
+
+
